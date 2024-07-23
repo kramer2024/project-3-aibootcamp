@@ -51,11 +51,11 @@ User Authentication: Implement user authentication to restrict access to certain
 
 
 ## required library installs
-pip install SpeechRecognition
-pip install pyaudio
-pip install gtts
-pip install playsound
-pip install nltk
+- pip install SpeechRecognition
+- pip install pyaudio
+- pip install gtts
+- pip install playsound
+- pip install nltk
 
 If you encounter issues with pyaudio, you may need to install portaudio first:
 
