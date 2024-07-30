@@ -1,7 +1,3 @@
-Here's a README for your project with the latest code updates:
-
----
-
 # Paxil Voice Assistant Kitty
 
 ## Overview
@@ -173,9 +169,40 @@ iface.launch(share=True)
 ```
 - Sets up the Gradio interface for the assistant.
 
-## License
-This project is licensed under the MIT License.
+## Documentation
 
----
+### Speech Recognition and Natural Language Processing
 
-This README provides an overview, setup instructions, code explanations, and usage details for your project. Let me know if you need any more changes or additions!
+#### SpeechRecognition Library:
+- [Official Documentation: SpeechRecognition Library Documentation](https://realpython.com/python-speech-recognition/)
+- [Real Python Tutorial: Speech Recognition Python](https://realpython.com/python-speech-recognition/)
+
+#### Natural Language Processing with NLTK:
+- [Official Documentation: NLTK Documentation](https://www.nltk.org/)
+- [NLTK Book: Natural Language Processing with Python](https://www.nltk.org/book/)
+
+### Text-to-Speech Conversion
+
+#### gTTS (Google Text-to-Speech):
+- [Official Documentation: gTTS Documentation](https://gtts.readthedocs.io/en/latest/)
+- [Medium Article: Convert Text to Speech in Python](https://towardsdatascience.com/text-to-speech-in-python-64f41f87a4b2)
+
+### Playing Sound in Python
+
+#### Playsound Library:
+- [Official Documentation: Playsound Documentation](https://pypi.org/project/playsound/)
+
+### Loading and Working with CSV Files in Python
+
+#### Python CSV Module:
+- [Official Documentation: CSV Documentation](https://docs.python.org/3/library/csv.html)
+- [Real Python Tutorial: Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
+
+### Putting It All Together
+
+#### Real Python:
+- [Guide on Building Voice Assistants: Python Voice Assistant Guide](https://realpython.com/python-voice-assistant/)
+
+#### Medium Articles:
+- [How to Build a Speech Recognition System in Python: Building a Speech Recognition System in Python](https://towardsdatascience.com/building-a-speech-recognition-system-from-scratch-a-beginners-guide-768420dd3e58)
+- [Creating a Voice Assistant with Python: Creating a Voice Assistant](https://towardsdatascience.com/build-your-first-voice-assistant-using-python-65d0f2e9992a)
