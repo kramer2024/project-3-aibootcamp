@@ -171,6 +171,16 @@ iface.launch(share=True)
 
 ## Documentation
 
+### Fuzzy Matching and String Similarity
+
+#### FuzzyWuzzy:
+- [Official Documentation: FuzzyWuzzy](https://pypi.org/project/fuzzywuzzy/)
+- [Real Python Tutorial: Fuzzy String Matching in Python](https://realpython.com/fuzzy-string-matching-python/)
+
+#### Python-Levenshtein:
+- [Official Documentation: python-Levenshtein](https://pypi.org/project/python-Levenshtein/)
+- [Stack Abuse Tutorial: Introduction to Fuzzy Matching in Python](https://stackabuse.com/introduction-to-fuzzy-matching-in-python/)
+
 ### Speech Recognition and Natural Language Processing
 
 #### SpeechRecognition Library:
